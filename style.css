@@ -110,7 +110,7 @@ a {
 }
 
 .parallax {
-    background-image: url('https://github.com/fitrakwe/zystorm/blob/main/Sepatu.webp');
+    background-image: url('Sepatu.webp');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
